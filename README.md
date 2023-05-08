@@ -14,13 +14,7 @@ N/A
 Each section contains notes on the specified topic. You can review them based upon your needs, or get suggestions on what to study in the console panel. To see suggestions, press command+option+I (MacOs) or Control+Shift+I (Windows), or right click and select 'inspect' and see the console panel.
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
-
-The last section of a high-quality README file is the license.
+Please refer to the LICENSE in the repo.
